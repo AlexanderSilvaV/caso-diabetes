@@ -1,3 +1,5 @@
+Alumnos: Javier Silva, Tomas Olave, Juan Rojas, Batian Aros
+
 # Predicción de Diabetes con IA + Chat Médico
 
 Este proyecto es una aplicación desarrollada en **Streamlit** que permite predecir la probabilidad de tener diabetes a partir de datos médicos ingresados manualmente. Además, incorpora un **chat asistido por modelos de lenguaje grandes (LLMs)** para resolver dudas médicas generales.
