@@ -1,3 +1,9 @@
+Alumnos:
+JAVIER SILVA
+TOMAS OLAVES
+JUAN ROJAS
+NICOLAS AROS
+
 # caso-diabetes
 
 # Predicción de Diabetes con IA + Chat Médico
